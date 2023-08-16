@@ -1,27 +1,61 @@
-## Hi There 👋
-### Software Developer
+<div align="right">
+<img src="https://komarev.com/ghpvc/?username=berkayaktunc&&style=flat-square" align="center" />
+</div>
+<h1 align="center">
+  <a href="https://github.com/haticedagli">
+    <img src="https://readme-typing-svg.herokuapp.com?size=36&center=true&multiline=true&width=500&height=100&lines=Hello%2C+There!+%F0%9F%91%8B;">
+  </a>
+</h1>
 
-### 👩‍💻  About Me
-<!--- 🔭 I’m currently an intern at [Radiologics Medical](https://github.com/rishavanand/Radiologics-Medical) -->
-- I am a software developer trying to improve himself on the backend side
-- I’m currently learning .net-core
-- I'm planning to focus on Go, Docker, and AWS
+<h5 align="center">
+
+- 🌱 I’m currently learning .NetCore and backend technologies
+- 👯 I’m looking to collaborate on the development of software
+- ⚡ Fun fact: Full time Linux lover 😄
 
 ### 📫 How to reach me:
-<div align="center">
-<a href="https://twitter.com/aktuncberkay" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" height="25" alt="twitter logo" />
-</a>
-<a href="https://linkedin.com/in/berkayaktunc" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"height="25" alt="linkedin logo" />
-</a>
-<a href="https://instagram.com/berkayaktunc" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" height="25" alt="instagram logo"/>
-</a>
-</div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=berkayaktunc&&style=flat-square" align="center" />
+  <a href="https://twitter.com/aktuncberkay" target="_blank">
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" height="25" alt="twitter logo" />
+  </a>
+  <a href="https://linkedin.com/in/berkayaktunc" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"height="25" alt="linkedin logo" />
+  </a>
+  <a href="https://instagram.com/berkayaktunc" target="_blank">
+    <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" height="25" alt="instagram logo"/>
+  </a>
+  <a href="berkay.aktunc@gmail.com" target="_blank">
+    <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;"height="25" alt="gmail logo" />
+  </a>
+</div>
+
+### 👩‍💻 Languages and Tools that I am learning/know//have an interest in:
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="40" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" height="40" alt="raspberrypi logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
 </div>
 
 <!--
