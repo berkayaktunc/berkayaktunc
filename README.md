@@ -16,14 +16,8 @@
 ### 📫 How to reach me:
 
 <div align="center">
-  <a href="https://twitter.com/aktuncberkay" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" height="25" alt="twitter logo" />
-  </a>
   <a href="https://linkedin.com/in/berkayaktunc" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;"height="25" alt="linkedin logo" />
-  </a>
-  <a href="https://instagram.com/berkayaktunc" target="_blank">
-    <img src=https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" height="25" alt="instagram logo"/>
   </a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=berkay.aktunc@gmail.com&su=subject_here&body=body_here" target="_blank">
     <img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;"height="25" alt="gmail logo" />
